@@ -1,2 +1,2 @@
 # Pinpoint
-Pinpoint is an object identification program created using the library provided by Google Cloud Vision API
+Pinpoint is an object identification program created Google Cloud Vision API and Python
